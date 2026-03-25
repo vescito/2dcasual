@@ -1,0 +1,97 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: UI Text_cs
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: cs
+  m_SharedData: {fileID: 11400000, guid: 0f59358de93595549a2916b598881ea2, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 50910457856
+    m_Localized: "Jak hr\xE1t"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2334402801664
+    m_Localized: "Nejvy\u0161\u0161\xED sk\xF3re:"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2527202373632
+    m_Localized: "Auto\u0159i"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2688423030784
+    m_Localized: "Vytvo\u0159il:"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2787861590016
+    m_Localized: 'Hudba:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2953641455616
+    m_Localized: "P\xEDsmo:"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3068867375104
+    m_Localized: "Zp\u011Bt"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3148932444160
+    m_Localized: "Podr\u017Ete a p\u0159et\xE1hn\u011Bte gran\xE1ty na praku a uvoln\u011Bte
+      tak, abyste zas\xE1hli padaj\xEDc\xED rakety. Pokud raketa dopadne na zem,
+      hra skon\u010Dila. Pokuste se p\u0159ekonat sv\u016Fj nejlep\u0161\xED v\xFDsledek
+      a sta\u0148te se mistrem Grenade Sling!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3406093611008
+    m_Localized: 'Pauza
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3496027877376
+    m_Localized: "Hlavn\xED nab\xEDdka "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3579335143424
+    m_Localized: "Pokra\u010Dovat"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3697144754176
+    m_Localized: Konec hry
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3796453289984
+    m_Localized: "Sk\xF3re:"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3868268163072
+    m_Localized: "Opravdu chcete zp\u011Bt do hlavn\xED nab\xEDdky? V\xE1\u0161 pokrok
+      bude ztracen."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4043019644928
+    m_Localized: Ano
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4129053208576
+    m_Localized: Ne
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8548247400448
+    m_Localized: "Hr\xE1t znovu"
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

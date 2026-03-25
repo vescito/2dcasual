@@ -12,6 +12,7 @@ TagManager:
   - Enemy
   - Floor
   - SoundToggle
+  - mechanics
   layers:
   - Default
   - TransparentFX
